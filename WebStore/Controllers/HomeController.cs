@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebStore.Models;
-
+//my test
 namespace WebStore.Controllers;
 
 public class HomeController : Controller
